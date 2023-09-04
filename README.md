@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# (React + Supabase) Todo App
+
+This todo app was created using React(frontend) & Supabase which is an incredible tool for building secure and high-performance Postgres backends with minimal configuration.
+
+## Built With
+
+[![React][React.js]][React-url]
+[![Supabase][Supabase]][Supabase-url]
+[![PostgreSQL][PostgreSQL]][postgresql-url]
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +79,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.dev/
+[Supabase]: https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white
+[Supabase-url]: https://supabase.com/
+[PostgreSQL]: https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+[postgresql-url]: https://www.postgresql.org/
